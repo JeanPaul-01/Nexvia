@@ -1,0 +1,13 @@
+-- Nexvia - PostgreSQL
+-- La base de datos utilizada por la aplicación es: nexvia
+--
+-- Las tablas se generan automáticamente mediante Spring Data JPA
+-- con la configuración:
+-- spring.jpa.hibernate.ddl-auto=update
+--
+-- Para ejecutar Nexvia, primero crea una base de datos PostgreSQL
+-- llamada "nexvia" y configura las variables de entorno:
+--
+-- DB_URL=jdbc:postgresql://localhost:5432/nexvia
+-- DB_USERNAME=tu_usuario
+-- DB_PASSWORD=tu_contraseña
